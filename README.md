@@ -4,7 +4,7 @@ A lightweight, decentralized Peer-to-Peer (P2P) desktop network application for 
 
 ---
 
-## 🛠️ Tech Stack & Dependencies (Ki Diye Kora)
+##  Tech Stack & Dependencies
 
 - **Programming Language:** Python 3.x
 - **Networking Protocol:** TCP Sockets (`socket` module) - Ensures reliable, ordered delivery of data streams.
@@ -15,7 +15,7 @@ A lightweight, decentralized Peer-to-Peer (P2P) desktop network application for 
 
 ---
 
-## ⚙️ How It Works (Kmne Kaj Kore)
+##  How It Works 
 
 1. **Decentralized Architecture:**
    - Unlike client-server applications, there is no central server. Every running instance of the application acts simultaneously as both a **Server** (listening for incoming connections) and a **Client** (connecting to other nodes).
