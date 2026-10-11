@@ -1,4 +1,3 @@
-# Python-p2p-chat-network
 # P2P Network Application
 
 ## Requirements:
